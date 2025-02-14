@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "centername": "typicode",
+      "email": "email",
+      "password": "pass"
+    },
+    {
+      "name": "dasda",
+      "centerName": "dasdas",
+      "email": "admin",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "newwwwwwww",
+      "centerName": "newwwwwww123",
+      "email": "new@gmial.com",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "name": "fff123",
+      "centerName": "212222",
+      "email": "new@gmial.com",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "name": "dasdas",
+      "centerName": "dasddddddd",
+      "email": "admin",
+      "password": "123456",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
